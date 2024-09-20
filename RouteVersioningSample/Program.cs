@@ -1,5 +1,5 @@
 using Asp.Versioning;
-using WebApiVersioningSample.Swagger;
+using RouteVersioningSample.Swagger;
 
 var builder = WebApplication.CreateBuilder(args);
 
